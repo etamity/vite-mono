@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "*": ["*", "./src/types/*"]
+    }
+  },
+  "files": [],
+  "references": [{ "path": "apps/website" }, { "path": "packages/coreui" }]
+}

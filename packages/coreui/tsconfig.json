@@ -1,0 +1,9 @@
+{
+  "extends": "@tekclaw/vm-scaffold/tsconfig.ui.json",
+  "compilerOptions": {
+    "declarationDir": "lib",
+    "emitDeclarationOnly": true,
+    "rootDir": "src"
+  },
+  "include": ["src"]
+}
