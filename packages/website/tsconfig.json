@@ -1,5 +1,5 @@
 {
-  "extends": "@tekclaw/vm-scaffold/tsconfig.ui.json",
+  "extends": "@tekclaw/scaffold/tsconfig.ui.json",
   "compilerOptions": {
     "noEmit": true,
     "rootDir": "src"

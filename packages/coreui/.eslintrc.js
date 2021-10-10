@@ -1,4 +1,4 @@
-const scaffold = require("@tekclaw/vm-scaffold/.eslintrc.ui");
+const scaffold = require("@tekclaw/scaffold/.eslintrc.ui");
 
 module.exports = {
   ...scaffold,

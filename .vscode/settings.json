@@ -10,7 +10,11 @@
   },
   "editor.tabSize": 2,
   "eslint.lintTask.enable": true,
-  "eslint.workingDirectories": ["./apps/website", "./packages/coreui"],
+  "eslint.workingDirectories": [
+    "./packages/website",
+    "./packages/coreui",
+    "./packages/cli"
+  ],
   "files.eol": "\n",
   "files.exclude": {
     "**/.eslintcache": true,

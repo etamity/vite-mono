@@ -5,5 +5,9 @@
     }
   },
   "files": [],
-  "references": [{ "path": "apps/website" }, { "path": "packages/coreui" }]
+  "references": [
+    { "path": "packages/website" },
+    { "path": "packages/coreui" },
+    { "path": "packages/cli" }
+  ]
 }

@@ -17,7 +17,6 @@
     }
   },
   "devDependencies": {
-    "@tekclaw/vm-scaffold": "latest",
     "@microsoft/eslint-plugin-sdl": "0.1.6",
     "@testing-library/jest-dom": "5.12.0",
     "@testing-library/react-hooks": "7.0.0",
